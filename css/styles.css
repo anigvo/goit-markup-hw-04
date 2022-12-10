@@ -206,9 +206,6 @@ margin-bottom: 12px;
     margin-right: 70px;
 }
 
-.footer-secondary {
-}
-
 .footer-content {
     font-weight: 700;
     font-size: 14px;
@@ -347,9 +344,6 @@ margin-bottom: 30px;
 border-radius: 4px;
 }
 
-.feature-icon {
-}
-
 .feature-title {
     color: var(--headers-color);
     font-weight: 700;
@@ -455,10 +449,6 @@ margin-top: 16px;
 .client-list {
 display: flex;
 gap: 30px;
-}
-
-.clien-item {
-
 }
 
 .client-link {
